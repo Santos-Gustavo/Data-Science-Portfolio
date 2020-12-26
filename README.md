@@ -32,8 +32,11 @@ I needed to clean it up so that it was usable for our model. I made the followin
     * Employees that stay
     * Employees that left
 
- ## EDA
- I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights.
+## EDA
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights.
+![alt text](https://github.com/Santos-Gustavo/Human-Resources/blob/main/Images/chance_to-quit_by_job_role.jpg "Salary by Position")
+![alt text](https://github.com/Santos-Gustavo/Human-Resources/blob/main/Images/distance_from_home.png "Job Opportunities by State")
+![alt text](https://github.com/Santos-Gustavo/Human-Resources/blob/main/Images/quits_by_age.png "Correlations")
 
 ## Model Building 
 
