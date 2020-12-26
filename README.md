@@ -46,6 +46,6 @@ I tried two different models:
 *	**Random Forest** – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective
 
 ## Model performance
-The Random Forest model was slightly better on the test. 
-*	**Logistic Reggresion** : F1 = 86%
+The Logistic Regression model was slightly better on the test. 
+*	**Logistic Reggresion** : F1 = 91%
 *	**Random Forest**: F1 = 87%
